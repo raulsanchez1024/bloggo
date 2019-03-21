@@ -9,10 +9,10 @@ I didn't see the need to. Plus, the thought of having my HTML, JS, and CSS all i
 of scared me away 🙅‍♂️. I finally got a chance to use them when I purchased [Wes Bos\' Advanced React & GraphQL Course](https://advancedreact.com/).
 My initial response went something like this 👇
 
-![gif](https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif)
+![gif](https://media.giphy.com/media/l41lQpaXZo7GGWD0k/giphy.gif)
 
 
-Despite my negative response. I quickly saw the value of using Styled Components. The syntax is actually clean, 
+Despite my negative response. I quickly saw the value of using Styled Components. The syntax is actually clean,
 having CSS embedded on your .jsx file(s) is actaully convinient, and not to mention the theme provider is awesome.
 
 1. Clean Sytntax
