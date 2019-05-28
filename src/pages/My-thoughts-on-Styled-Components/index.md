@@ -1,5 +1,5 @@
 ---
-title: My thoughts on Styled Components 💅
+title: My thoughts on Styled Components
 date: "2018-12-04T22:12:03.284Z"
 readingTime: "5 min"
 ---
