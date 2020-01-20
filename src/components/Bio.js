@@ -16,8 +16,6 @@ class Bio extends React.Component {
             {' '}
             Raul Sanchez{' '}
           </a>
-          <br />
-          Currently looking for new opportunities
         </p>
       </div>
   }
